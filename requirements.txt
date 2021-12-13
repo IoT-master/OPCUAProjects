@@ -7,7 +7,7 @@ cryptography==3.3.2
 idna==2.10
 isort==4.3.21
 lazy-object-proxy==1.4.3
-lxml==4.6.3
+lxml==4.6.5
 mccabe==0.6.1
 Naked==0.1.31
 opcua==0.98.11
